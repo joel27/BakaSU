@@ -84,7 +84,6 @@
     <string name="app_profile_template_sync">Sinhronizēt tiešsaistes veidnes</string>
     <string name="app_profile_template_save_failed">Neizdevās saglabāt veidni</string>
     <string name="app_profile_template_import_empty">Starpliktuve ir tukša!</string>
-    <string name="module_changelog_failed">Izmaiņu žurnāla iegūšana neizdevās: %s</string>
     <string name="grant_root_failed">Neizdevās piešķirt sakni!</string>
     <string name="direct_install">Tiešā instalēšana (Ieteicams)</string>
     <string name="select_file">Izvēlieties failu</string>
@@ -103,7 +102,6 @@
     <string name="flashing">Instalē</string>
     <string name="flash_success">Instalēts veiksmīgi</string>
     <string name="flash_failed">Instalēšana neizdevās</string>
-    <string name="selected_lkm">Izvēlētais lkm: %s</string>
     <string name="save_log">Išsaugoti Žurnalus</string>
     <string name="settings_sucompat">Pārvirzīt su bināro failu</string>
     <string name="settings_sucompat_summary">Pārvirzīt /system/bin/su uz ksud lietotnēm, kurām piešķirta Superuser atļauja lietotnes profilā; efektīva tikai jauniem procesiem.</string>
